@@ -1,12 +1,9 @@
-Hello World commands entered in the following format: 
-"comand parametr1 parametr2"
+#Seminars
 
-example : 
-ping destination 
-list 
-register login password 
-login login password 
-msg destination messegText 
-exit
+#1 seminar
 
-to complete the program you must enter the command "stop"
+Commands must be typed in the following format: "command parameter_1 parameter_2 parameter_N"
+
+Output to console at the start of the program is **"Hello World!!!"**
+
+To complete the program, you must type the "finish" command.
