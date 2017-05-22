@@ -8,7 +8,7 @@ Commands entered in the following format:
 
 **ping** (here without parameters)
 
-**echo** anyText ("anyText" - any text that you want to transfer)
+**echo anyText** ("anyText" - any text that you want to transfer)
 
 **sort fileName.txt** (For Example: "sort newfile1.txt", where "newfile1.txt" - the name of the file that will be created)
 
