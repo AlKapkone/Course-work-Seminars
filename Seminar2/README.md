@@ -1,24 +1,24 @@
 The list of available commands:
 -----------------------------------
-**ping
+**ping**
 
-**echo
+**echo**
 
-**echo anyText 
+**echo anyText**
 
-**login login password
+**login login password**
 
-**list
+**list**
 
-**msg destination messegText
+**msg destination messegText**
 
-**file destination fileName (file must be in home directory, fileName example "1.txt", received fileName "sourceLogin_fileName")
+**file destination fileName** (file must be in home directory, fileName example "1.txt", received fileName "sourceLogin_fileName")
 
-**exit
+**exit**
 
-**receivemsg
+**receivemsg**
 
-**receivefile
+**receivefile**
 
 If you can not send a file, you can try to receive a file from another client and send it back with the appropriate name.
 
