@@ -1,2 +1,2 @@
 # Course-work-Seminars
-#course-work; #6 seminars
+#1 seminar
