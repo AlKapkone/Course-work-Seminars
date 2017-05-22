@@ -6,4 +6,5 @@ Commands must be typed in the following format: "command parameter_1 parameter_2
 
 Output to console at the start of the program is **"Hello World!!!"**
 ----------------------------------------------------------------------
-To complete the program, you must type the "finish" command.
+***To complete the program, you must type the "finish" command.***
+----------------------------------------------------------------------
