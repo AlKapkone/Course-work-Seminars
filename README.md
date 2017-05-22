@@ -1,2 +1,2 @@
-***Here's presents Seminar2 (RMI Client Program)***
+***Here's presents Seminar3 (RMI Client Program)***
 -----------------------------------
