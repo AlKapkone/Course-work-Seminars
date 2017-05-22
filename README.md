@@ -12,4 +12,4 @@ echo anyText ("anyText" - any text that you want to transfer)
 
 sort fileName.txt (For Example: "sort newfile1.txt", where "newfile1.txt" - the name of the file that will be created)
 
-Files will be stored in the root project.
+Files will be stored in the root folder.
