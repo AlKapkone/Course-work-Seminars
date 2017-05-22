@@ -1,2 +1,3 @@
-# Course-work-Seminars
-#course-work; #6 seminars
+***Here's presents Seminar3 (RMI Client Program)***
+-----------------------------------
+
