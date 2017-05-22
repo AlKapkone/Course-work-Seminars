@@ -2,8 +2,8 @@
 
 ***IMPORTANT!!!*** Before starting the program it is necessary to set VM Options in both, client and server, projects!!
 ==============================================================================================================================
--Djava.security.policy=access.policy
-
+**-Djava.security.policy=access.policy**
+-----------------------------------
 Commands entered in the following format:
 
 ping (here without parameters)
